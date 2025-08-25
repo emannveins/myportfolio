@@ -2,9 +2,9 @@ import React from 'react';
 import { ExternalLinkIcon, GithubIcon } from 'lucide-react';
 export function Projects() {
   const projects = [{
-    title: 'Retro Game Hub',
-    description: 'A collection of 8-bit style browser games built with JavaScript and Canvas API.',
-    tags: ['JavaScript', 'HTML5 Canvas', 'CSS'],
+    title: 'fits',
+    description: 'A fitness app that tracks your calories, has template for your diet and uses ai for adivices.',
+    tags: ['python', 'flutter', 'firebase','swift/kotlin'],
     imageUrl: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=500&h=300'
   }, {
     title: 'Pixel Weather App',

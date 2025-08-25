@@ -10,14 +10,14 @@ export function Contact() {
           <div className="mb-8">
             <p className="mb-4">
               Interested in working together? Fill out the form and I'll get
-              back to you as soon as possible.
+              back to you asap.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
                 <div className="w-10 h-10 border-2 border-green-400 flex items-center justify-center mr-4">
                   <MailIcon size={20} className="text-green-400" />
                 </div>
-                <span>hello@pixeldev.com</span>
+                <span>wannahire@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <div className="w-10 h-10 border-2 border-green-400 flex items-center justify-center mr-4">
@@ -29,7 +29,7 @@ export function Contact() {
                 <div className="w-10 h-10 border-2 border-green-400 flex items-center justify-center mr-4">
                   <MapPinIcon size={20} className="text-green-400" />
                 </div>
-                <span>Pixel City, Digital Land</span>
+                <span>night city</span>
               </div>
             </div>
           </div>

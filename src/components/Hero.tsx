@@ -5,15 +5,14 @@ export function Hero() {
         <div>
           <div className="mb-6">
             <h1 className="text-4xl font-bold mb-2">
-              <span className="text-green-400">HELLO</span> WORLD!
+              <span className="text-green-400">HELLO!</span>
             </h1>
             <h2 className="text-3xl font-bold">
-              I'M <span className="text-green-400">PIXEL DEVELOPER</span>
+              I'M <span className="text-green-400">EMANN</span>
             </h2>
           </div>
           <p className="mb-8 text-gray-300">
-            Crafting pixel-perfect web experiences with a retro twist. Frontend
-            developer specializing in creative, 8-bit inspired interfaces.
+            I'm a backend software developer specializing in cybersecurity.I love the 8 bit interfaces.
           </p>
           <div className="flex space-x-4">
             <a href="#contact" className="px-6 py-3 bg-green-400 text-black font-bold hover:bg-green-300 transition-colors">

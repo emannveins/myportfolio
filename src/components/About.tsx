@@ -12,7 +12,7 @@ export function About() {
           </div>
           <h3 className="text-xl font-bold mb-2 text-center">WHO I AM</h3>
           <p className="text-center">
-            A passionate web developer with a love for retro aesthetics and
+            A passionate backend developer with a love for cybersecurity and
             modern technologies.
           </p>
         </div>
@@ -22,7 +22,7 @@ export function About() {
           </div>
           <h3 className="text-xl font-bold mb-2 text-center">WHAT I DO</h3>
           <p className="text-center">
-            I build responsive, pixel-perfect websites and applications with a
+            I build functional, softwares and applications with a
             focus on user experience.
           </p>
         </div>
@@ -30,23 +30,22 @@ export function About() {
           <div className="flex justify-center mb-4">
             <CoffeeIcon size={40} className="group-hover:text-black text-green-400" />
           </div>
-          <h3 className="text-xl font-bold mb-2 text-center">MY HOBBIES</h3>
+          <h3 className="text-xl font-bold mb-2 text-center">HOBBIES</h3>
           <p className="text-center">
-            When not coding, I enjoy retro gaming, pixel art creation, and
-            exploring new technologies.
+            When not coding, I enjoy gaming, etichal hacking, and exploring new technologies.
           </p>
         </div>
       </div>
       <div className="mt-8 p-6 border-2 border-green-400">
         <p className="mb-4">
-          I'm a frontend developer with 5+ years of experience building web
-          applications. My journey began with a fascination for the early days
-          of the internet and classic video games, which influences my aesthetic
-          approach to modern web development.
+          I'm a backend developer with 2+ years of experience building softwares and security systems.
+          My journey began with a fascination for the early days
+          of the internet and video games, which influences my 
+          approach to modern software development.
         </p>
         <p>
           I believe in clean code, accessible designs, and the perfect balance
-          between nostalgic charm and contemporary functionality. Every project
+          between minimal charm and contemporary functionality. For me every project
           is an opportunity to create something both beautiful and functional.
         </p>
       </div>

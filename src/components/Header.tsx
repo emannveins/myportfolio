@@ -5,15 +5,18 @@ export function Header() {
   return <header className="py-4 mb-8">
       <div className="flex items-center justify-between">
         <div className="text-xl font-bold tracking-wider">
-          <span className="text-green-400">P</span>
-          <span className="text-green-400">I</span>
-          <span className="text-green-400">X</span>
-          <span className="text-green-400">E</span>
-          <span className="text-green-400">L</span>
-          <span className="text-white">.</span>
-          <span className="text-white">D</span>
-          <span className="text-white">E</span>
-          <span className="text-white">V</span>
+          <span className="text-white">M</span>
+          <span className="text-white">Y</span>
+          <span> </span>
+          <span className="text-white">P</span>
+          <span className="text-white">O</span>
+          <span className="text-white">R</span>
+          <span className="text-white">T</span>
+          <span className="text-white">F</span>
+          <span className="text-white">O</span>
+          <span className="text-white">L</span>
+          <span className="text-white">I</span>
+          <span className="text-white">O</span>
         </div>
         {/* Desktop Navigation */}
         <nav className="hidden md:block">

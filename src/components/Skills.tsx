@@ -1,7 +1,7 @@
 import React from 'react';
 export function Skills() {
-  const frontendSkills = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Tailwind CSS'];
-  const toolsSkills = ['Git', 'Webpack', 'VS Code', 'Figma', 'Jest', 'npm'];
+  const frontendSkills = ['c/c++', 'Java', 'Python', 'Swift/Kotlin', 'Mysql',];
+  const toolsSkills = ['Git', 'Aws', 'VS Code', 'Figma', 'npm'];
   return <section id="skills" className="mb-16">
       <h2 className="text-2xl font-bold mb-8 border-l-4 border-green-400 pl-4">
         MY SKILLS
@@ -9,7 +9,7 @@ export function Skills() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="border-2 border-green-400 p-4">
           <h3 className="text-xl font-bold mb-4 text-center text-green-400">
-            FRONTEND
+            BACKEND
           </h3>
           <div className="grid grid-cols-2 gap-4">
             {frontendSkills.map((skill, index) => <div key={index} className="flex items-center">
@@ -34,16 +34,16 @@ export function Skills() {
         <h3 className="text-xl font-bold mb-4 text-green-400">SKILL LEVELS</h3>
         <div className="space-y-4">
           {[{
-          name: 'Frontend Development',
+          name: 'Backend Development',
           level: 90
         }, {
-          name: 'UI/UX Design',
+          name: 'Clouding',
           level: 75
         }, {
-          name: 'Responsive Design',
+          name: 'Database',
           level: 95
         }, {
-          name: 'Pixel Art',
+          name: 'App development',
           level: 80
         }].map((skill, index) => <div key={index}>
               <div className="flex justify-between mb-1">
